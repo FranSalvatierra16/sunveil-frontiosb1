@@ -25,6 +25,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a2f383b7-224b-4bd0-b403-1949fd3d7eaa"
+      }
+    },
+    "owner": "fransalvatierra",
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
